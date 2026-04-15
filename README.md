@@ -7,6 +7,8 @@ The circuit generates a continuous square wave signal, enabling an LED to blink 
 
 By varying resistor and capacitor values, the blinking speed can be precisely adjusted, making this a fundamental and practical application in **digital electronics and embedded systems**.
 
+the above attached implemented circuit was taken at 2017 during a science fair that i participated in 
+
 ---
 
 ## Objectives
